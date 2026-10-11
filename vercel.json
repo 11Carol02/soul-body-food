@@ -1,0 +1,8 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "npm run build",
+  "installCommand": "npm install --registry https://registry.npmjs.org",
+  "env": {
+    "NEXTAUTH_URL": "https://soul-body-food.vercel.app"
+  }
+}
